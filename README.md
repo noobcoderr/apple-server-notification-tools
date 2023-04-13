@@ -20,4 +20,5 @@ jws_data, err = AppleIapTools.verify_jws(signedPayload)
 
 
 ## 参考
-[StoreKit2【附源码】JWS X.509证书链验证](https://juejin.cn/post/7039970403770433544)
+[StoreKit2【附源码】JWS X.509证书链验证](https://juejin.cn/post/7039970403770433544)   
+[JWS-X.509 Certificate Chain](https://datatracker.ietf.org/doc/html/rfc7515#section-4.1.6)
